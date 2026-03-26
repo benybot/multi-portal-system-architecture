@@ -1,0 +1,8 @@
+{
+  "entities": ["users", "candidates", "requests", "contracts"],
+  "relationships": [
+    "user -> candidate",
+    "client -> candidates",
+    "staff -> requests"
+  ]
+}
