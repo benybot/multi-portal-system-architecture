@@ -1,0 +1,8 @@
+{
+  "flow": [
+    "User logs in",
+    "Role is validated",
+    "Data is fetched from API",
+    "UI displays role-specific dashboard"
+  ]
+}
