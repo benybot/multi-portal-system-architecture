@@ -1,0 +1,8 @@
+{
+  "roles": ["admin", "client", "staff"],
+  "permissions": {
+    "admin": ["manage_all"],
+    "client": ["view_candidates", "schedule_interviews"],
+    "staff": ["update_profile", "submit_requests"]
+  }
+}
